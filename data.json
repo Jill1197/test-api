@@ -1,0 +1,20 @@
+{
+  "header": {
+    "version": "1.0",
+    "network": "BSC",
+    "contract_address": "0x1234...abcd"
+  },
+  "event": {
+    "type": "TRANSFER_LOG",
+    "timestamp": 1708262400,
+    "tx_hash": "0xabcdef...123",
+    "from": "0xUser_Address",
+    "to": "0xRecipient_Address",
+    "amount": "150.50",
+    "token": "USDT"
+  },
+  "metadata": {
+    "app_name": "MyDApp",
+    "device_id": "WEB_BROWSER_01"
+  }
+}
